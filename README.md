@@ -1,7 +1,7 @@
 
 # Dinedash - Order food from comfort of your home
 
-A web app to order food from the comfort of your home (Devcomm JC Task).
+A web app to order food from the comfort of your home.
 
 
 ## Environment Variables
