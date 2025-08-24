@@ -18,7 +18,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  git clone https://github.com/ayshthkr/dinedash.git
+    (git clone https://github.com/ayushjhaO7/DineDash.git)
 ```
 
 Go to the project directory
@@ -178,5 +178,5 @@ To deploy this project
 
 ## Authors
 
-- [@ayshthkr](https://www.github.com/ayshthkr)
+- (https://www.github.com/ayushjhaO7)
 
