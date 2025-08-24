@@ -42,7 +42,7 @@ Start the server
 
 ## Screenshots
 
-![App Tutorial Video](https://raw.githubusercontent.com/ayshthkr/dinedash/main/public/video.gif)
+![App Tutorial Video](https://raw.githubusercontent.com/ayushjhaO7/dinedash/main/public/video.gif)
 
 
 ## Database Setup
